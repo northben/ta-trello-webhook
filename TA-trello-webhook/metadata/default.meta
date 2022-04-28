@@ -1,0 +1,23 @@
+
+[]
+access = read : [ * ], write : [ admin ]
+export = system
+
+[views]
+access = read : [ * ], write : [ admin ]
+export = none
+
+[props/trello_webhook]
+owner = admin
+version = 8.2.6
+modtime = 1650765226.468683000
+
+[props/source%3A%3A...ta-trello-webhook%2A.log%2A]
+owner = admin
+version = 8.2.6
+modtime = 1650765226.693297000
+
+[props/source%3A%3A...ta_trello_webhook%2A.log%2A]
+owner = admin
+version = 8.2.6
+modtime = 1650765226.821360000
